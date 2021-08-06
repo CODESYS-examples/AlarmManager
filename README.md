@@ -7,3 +7,6 @@ Basic configuration of Alarm Manager. It also shows how to work with Notificatio
 
 ## Example 2
 Example shows how to work with Alarm with observation type Event.
+
+## Example 3
+Example of remote handling of PLC alarms in the network
