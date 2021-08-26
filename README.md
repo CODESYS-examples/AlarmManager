@@ -10,3 +10,6 @@ Example shows how to work with Alarm with observation type Event.
 
 ## Example 3
 Example of remote handling of PLC alarms in the network
+
+## Example 4
+Programmatic access to the Alarm System
